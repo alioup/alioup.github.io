@@ -1,4 +1,4 @@
-#This is my personal website. 
+#This is my personal website.
 
 ##The goals of this website are as follows:
 
@@ -22,11 +22,10 @@
 
 - [x] Make multiple pages
 
-- [ ] Make further cusomizations 
+- [ ] Make further cusomizations
 
 - [ ] Improve design and make my own assets
 
 - [ ] Add more interactive features to make it a fun browsing experience
 
--[ ] Highlight projects more
-
+- [ ] Highlight projects more
